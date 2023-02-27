@@ -1,1 +1,1 @@
-# 30DaysOfPreact
+# 30DaysOfPreactJS
