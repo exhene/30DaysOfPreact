@@ -1,4 +1,4 @@
-# 30DaysOfPreactJS
+# IntroToPreactJS
 
 PreactJS is a lightweight, fast and efficient JavaScript library for building user interfaces. It is a popular alternative to the larger ReactJS library, as it offers similar functionality and API with a much smaller size and faster performance.
 
